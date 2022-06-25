@@ -136,17 +136,21 @@ export default function Home({
         </Comment>
 
         <div id="comments" className="w-full my-8 giscus" />
+
+        
+          
+
         <Script
           src="/client.js"
-          data-repo="giscus/giscus"
-          data-repo-id="MDEwOlJlcG9zaXRvcnkzNTE5NTgwNTM="
-          data-category-id="MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyNzk2NTc1"
+          data-repo="Tutor-Info/Nanjing-University"
+          data-repo-id="R_kgDOHgxgeA"
+          data-category-id="DIC_kwDOHgxgeM4CPtJ_"
           data-mapping="specific"
           data-term="Welcome to giscus!"
           data-theme="light"
           data-reactions-enabled="1"
           data-emit-metadata="0"
-          data-input-position="bottom"
+          data-input-position="top"
           data-lang={locale}
         />
         <a
