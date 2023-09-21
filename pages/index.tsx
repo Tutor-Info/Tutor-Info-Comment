@@ -143,7 +143,7 @@ export default function Home({
         <Script
           src="/client.js"
           data-repo="Tutor-Info/Tutor-Info"
-          data-repo-id="R_kgDOHgxgeA"
+          data-repo-id="R_kgDOHm6iVw"
           data-category-id="DIC_kwDOHgxgeM4CPtJ_"
           data-mapping="pathname"
           data-term="Welcome to giscus!"
