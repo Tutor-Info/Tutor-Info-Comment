@@ -142,7 +142,7 @@ export default function Home({
 
         <Script
           src="/client.js"
-          data-repo="Tutor-Info/Nanjing-University"
+          data-repo="Tutor-Info/Tutor-Info"
           data-repo-id="R_kgDOHgxgeA"
           data-category-id="DIC_kwDOHgxgeM4CPtJ_"
           data-mapping="specific"
