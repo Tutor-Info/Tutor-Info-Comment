@@ -152,6 +152,7 @@ export default function Home({
           data-emit-metadata="0"
           data-input-position="top"
           data-lang={locale}
+          crossorigin="anonymous"
         />
         <a
           className="block mx-auto mb-6 w-max"
