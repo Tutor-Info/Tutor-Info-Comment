@@ -145,7 +145,7 @@ export default function Home({
           data-repo="Tutor-Info/Tutor-Info"
           data-repo-id="R_kgDOHgxgeA"
           data-category-id="DIC_kwDOHgxgeM4CPtJ_"
-          data-mapping="specific"
+          data-mapping="pathname"
           data-term="Welcome to giscus!"
           data-theme="light"
           data-reactions-enabled="1"
